@@ -1,6 +1,6 @@
 [package]
 name = "imgui-rs-d3d11-renderer"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["OxideEngine", "Changseo Jang <changseo_jang@korea.ac.kr>"]
 edition = "2018"
 license = "MIT"
