@@ -1,0 +1,9 @@
+[package]
+name = "imgui-rs-d3d11-renderer"
+version = "0.1.0"
+authors = ["OxideEngine", "Changseo Jang <changseo_jang@korea.ac.kr>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
